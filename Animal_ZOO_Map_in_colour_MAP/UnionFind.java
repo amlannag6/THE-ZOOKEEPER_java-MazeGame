@@ -1,9 +1,4 @@
-//COMP 2230_02
-//Data Structure, Algorithm Analysis, and Program Design
-//Johnny Cuzzola
-// March 22th 2020
-// Midterm 2
-// Name : Amlan Nag ( T00605732)
+
 
 import java.util.*;
 
